@@ -1,0 +1,30 @@
+C:\api\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.deps.json
+C:\api\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.dll
+C:\api\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.pdb
+C:\api\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerDAL.dll
+C:\api\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerDAL.pdb
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.AssemblyReference.cache
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.AssemblyInfoInputs.cache
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.AssemblyInfo.cs
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.CoreCompileInputs.cache
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.CopyComplete
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.dll
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\refint\TaskTrackerBL.dll
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.pdb
+C:\api\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\ref\TaskTrackerBL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.deps.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerBL.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerDAL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\bin\Debug\net6.0\TaskTrackerDAL.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.AssemblyReference.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.AssemblyInfoInputs.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.AssemblyInfo.cs
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.CoreCompileInputs.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.csproj.CopyComplete
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\refint\TaskTrackerBL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\TaskTrackerBL.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerBL\obj\Debug\net6.0\ref\TaskTrackerBL.dll

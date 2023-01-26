@@ -1,0 +1,184 @@
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.AssemblyReference.cache
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.AssemblyInfoInputs.cache
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.AssemblyInfo.cs
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.CoreCompileInputs.cache
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\appsettings.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.exe
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.deps.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.runtimeconfig.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.pdb
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerBL.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerDAL.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerBL.pdb
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerDAL.pdb
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\scopedcss\bundle\TaskTrackerAPI.styles.css
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.CopyComplete
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\refint\TaskTrackerAPI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.pdb
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.genruntimeconfig.cache
+C:\api\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\ref\TaskTrackerAPI.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Humanizer.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\api\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\appsettings.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.exe
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.deps.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.runtimeconfig.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerAPI.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerBL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerDAL.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerBL.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\bin\Debug\net6.0\TaskTrackerDAL.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.AssemblyReference.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.AssemblyInfoInputs.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.AssemblyInfo.cs
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\scopedcss\bundle\TaskTrackerAPI.styles.css
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.csproj.CopyComplete
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\refint\TaskTrackerAPI.dll
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.pdb
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\TaskTrackerAPI.genruntimeconfig.cache
+C:\Angular Apps\angular-crash2\TaskTrackerAPI\TaskTrackerAPI\obj\Debug\net6.0\ref\TaskTrackerAPI.dll
