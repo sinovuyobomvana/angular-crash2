@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GLVVE6qblIDIoiwrEqTApp1kF2kfsVvLXgJ79tAoz0XzTUg2PGOAGCJEsPl8VpqqHjvKEO/aaRkCkM+96OoY7A==",
+  "dgSpecHash": "d/2iZ/lgiXXiFU+KRfaH28dsXqyiUbUMXcttbFMEH6T/y4NgLXDM7mD/QdJqd9ivhU9+JL0IH9CJvKG7eA1GAg==",
   "success": true,
   "projectFilePath": "C:\\Angular Apps\\angular-crash2\\TaskTrackerAPI\\TaskTrackerAPI\\TaskTrackerAPI.csproj",
   "expectedPackageFiles": [

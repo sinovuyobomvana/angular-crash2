@@ -13,16 +13,12 @@ namespace TaskTrackerDAL.Entities
 
         public string DayAndTime { get; set; }
         public bool? Reminder { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime ModifiedAt { get; set; }
 
-        public TaskEntity(string name, string dayAndTime, bool? reminder, DateTime createdAt, DateTime modifiedAt)
+        public TaskEntity(string name, string dayAndTime, bool? reminder)
         {
             Name = name;
             DayAndTime = dayAndTime;
             Reminder = reminder;
-            CreatedAt = createdAt;
-            ModifiedAt = modifiedAt;
         }
     }
 }

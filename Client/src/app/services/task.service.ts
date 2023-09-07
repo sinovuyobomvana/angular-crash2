@@ -1,7 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Observable} from 'rxjs';
-import { Task } from '../Task';
+import { Task } from '../models/Task';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { environment } from 'src/environments/environment';
 
 const httpOtions  = {
   headers: new HttpHeaders({
@@ -13,12 +14,12 @@ const httpOtions  = {
   providedIn: 'root'
 })
 export class TaskService {
- private apiUrl = 'https://localhost:7216/api/Task';
+ private apiUrl = environment.apiUrl + 'Task'
 
   constructor(private Http:HttpClient) { }
 
-  getTasks() : Observable<Task> {
-    return this.Http.get<Task>(this.apiUrl);
+  getTasks() {
+    return this.Http.get<Task []>(this.apiUrl);
   }
 
   deleteTask(task:Task): Observable<Task>{
@@ -31,7 +32,7 @@ export class TaskService {
     return this.Http.put<Task>(url, task, httpOtions);
   }
 
-  addTask(task:Task): Observable<Task>{
+  addTask(task:Task): Observable<Task> {
     return this.Http.post<Task>(this.apiUrl, task, httpOtions);
   }
 }

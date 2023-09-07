@@ -40,7 +40,7 @@ namespace TaskTrackerAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddTask([FromForm] AddTaskDTO task)
+        public async Task<IActionResult> AddTask([FromBody] AddTaskDTO task)
         {
                 await BL.AddTask(task);
                 return Ok();

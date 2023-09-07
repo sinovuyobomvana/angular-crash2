@@ -17,10 +17,6 @@ namespace TaskTrackerBL.DTOs.POST
         public string DayAndTime { get; set; }
 
         public bool? Reminder { get; set; }
-        [Required]
-        public DateTime CreatedAt { get; set; }
 
-        [Required]
-        public DateTime ModifiedAt { get; set; }
     }
 }

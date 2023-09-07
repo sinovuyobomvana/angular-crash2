@@ -1,12 +1,12 @@
 <form *ngIf="showAddTask" class="add-form"(ngSubmit)="onSubmit()">
     <div class="form-control">
-        <label for="Text">Task</label>
-        <input type="text" name="text" [(ngModel)]="text" id="text" placeholder="Add Task" />
+        <label for="name">Task</label>
+        <input type="text" name="name" [(ngModel)]="name" id="name" placeholder="Add Task" />
     </div>
 
     <div class="form-control">
-        <label for="day">Day & Time</label>
-        <input type="text" name="day" [(ngModel)]="day" id="day" placeholder="Add Day & Time" />
+        <label for="dayAndTime">Day & Time</label>
+        <input type="text" name="dayAndTime" [(ngModel)]="dayAndTime" id="dayAndTime" placeholder="Add Day & Time" />
     </div>
 
     <div class="form-control form-control-check">
@@ -15,5 +15,61 @@
     </div>
 
     <input type="submit" value="Save Task" class="btn btn-block" />
-
 </form>
+
+<!-- <form [formGroup]="profileForm" class="form-container">
+    <mat-card>
+      <mat-card-header>
+        <mat-card-title>Profile Information</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <div class="row">
+          <div class="col-md-6">
+            <mat-form-field class="full-width">
+              <input formControlName="firstName" matInput placeholder="First name">
+              <mat-hint style="color: red;" *ngIf="profileForm.get('firstName')?.touched && profileForm.get('firstName')?.errors?.required">
+                First name is required
+            </mat-hint>
+            </mat-form-field>
+          </div>
+          <div class="col-md-6">
+            <mat-form-field class="full-width">
+              <input  formControlName="lastName" matInput placeholder="Last name">
+              <mat-hint style="color: red;" *ngIf="profileForm.get('lastName')?.touched && profileForm.get('lastName')?.errors?.required">
+                Last name is required
+            </mat-hint>
+            </mat-form-field>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6">
+            <mat-form-field class="full-width">
+              <textarea  formControlName="address" matInput placeholder="Address"></textarea>
+              <mat-hint style="color: red;" *ngIf="profileForm.get('address')?.touched && profileForm.get('address')?.errors?.required">
+                Address is required
+            </mat-hint>
+            </mat-form-field>
+          </div>
+          <div class="col-md-6 top-padding">
+                <mat-form-field class="full-width" appearance="fill">
+                    <mat-label>Select DOB</mat-label>
+                    <input  formControlName="dob" matInput [matDatepicker]="picker">
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-datepicker #picker></mat-datepicker>
+                </mat-form-field>                  
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <mat-radio-group  formControlName="gender" class="margin-left">
+                    <mat-radio-button value="male"> Male </mat-radio-button>
+                    <mat-radio-button value="female"> Female </mat-radio-button>
+                </mat-radio-group>
+            </div>
+        </div>
+      </mat-card-content>
+      <mat-card-actions>
+        <button (click)="saveForm()" mat-raised-button color="primary">Save</button>
+      </mat-card-actions>
+    </mat-card>
+  </form> -->
